@@ -1,7 +1,9 @@
-*Instalar dependências*
+## Instalar dependências e iniciar server
 
-1. Na raiz do projeto
-- $ yarn install
+Na raiz do projeto
 
-2. Iniciar servidor:
-- $ yarn start
+### `yarn install`
+
+Iniciar Servidor
+
+### `yarn start`
