@@ -4,4 +4,4 @@
 - $ yarn install
 
 2. Iniciar servidor:
-    $ yarn start
+- $ yarn start
