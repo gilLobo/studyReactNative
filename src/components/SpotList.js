@@ -13,9 +13,10 @@ import api  from '../services/api';
 
     Ex: export default withNavigation(SpotList);
 */
+
 function SpotList({ tech, navigation }) {
     const [spots, setSpots] = useState([]);
-    const ipLocal = '192.168.0.28';
+    const ipLocal = '192.168.0.29';
 
     useEffect(() => {
         async function loadSpot() {
